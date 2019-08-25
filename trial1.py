@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Aug 25 13:06:59 2019
-
-@author: Harshi
-"""
 
 # import the external libraries
 import pandas as pd
